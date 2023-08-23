@@ -1,0 +1,40 @@
+C:\Users\Dell\source\repos\StudentData\Core\bin\Debug\Core.dll.config
+C:\Users\Dell\source\repos\StudentData\Core\bin\Debug\Core.dll
+C:\Users\Dell\source\repos\StudentData\Core\bin\Debug\Core.pdb
+C:\Users\Dell\source\repos\StudentData\Core\bin\Debug\Dto.dll
+C:\Users\Dell\source\repos\StudentData\Core\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\StudentData\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\StudentData\Core\bin\Debug\Dto.pdb
+C:\Users\Dell\source\repos\StudentData\Core\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\StudentData\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\StudentData\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentData\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StudentData\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Dell\source\repos\StudentData\Core\obj\Debug\Core.dll
+C:\Users\Dell\source\repos\StudentData\Core\obj\Debug\Core.pdb
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\Core.dll.config
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\Core.dll
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\Core.pdb
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\Dto.dll
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\System.Web.Cors.dll
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\System.Web.Http.dll
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\Dto.pdb
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\System.Web.Http.xml
+C:\Users\Dell\source\repos\StudentData - Copy\Core\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Dell\source\repos\StudentData - Copy\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentData - Copy\Core\obj\Debug\Core.Migrations.InitialCreate.resources
+C:\Users\Dell\source\repos\StudentData - Copy\Core\obj\Debug\Core.Migrations.InitialCreate1.resources
+C:\Users\Dell\source\repos\StudentData - Copy\Core\obj\Debug\Core.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\StudentData - Copy\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StudentData - Copy\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Dell\source\repos\StudentData - Copy\Core\obj\Debug\Core.dll
+C:\Users\Dell\source\repos\StudentData - Copy\Core\obj\Debug\Core.pdb
